@@ -3,8 +3,8 @@
 
 Here's a little bit about me:
 
-- 🔭 I’m currently doing my master's in Computer Science at the University of Freiburg
-- 🔭 I worked as a Software Developer for the last three years
+- 🎓 I’m currently doing my master's in Computer Science at the University of Freiburg
+- 💼 I worked as a Software Developer for the last three years
 - 🌱 I’m (trying to) learn and explore more about Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on projects that blend AI with real-world applications
 - 💬 Ask me about anything tech or bookish — I'm always eager to dive in and learn, even if I don't have all the answers!
